@@ -1,6 +1,5 @@
 # DDos Killer - ddos-black
 
-![ASCII Art](ascii_art_placeholder)
 
 ## Descrição
 
