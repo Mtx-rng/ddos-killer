@@ -255,7 +255,7 @@ if __name__ == "__main__":
     print(f"{GREEN}Bem-vindo ao DDos Killer Turbo!{RESET}")
     main_menu()
 
-    # AVISO LEGAL
+    # AVISO LEGAL⚠️
     print(f"""\n{YELLOW_BRIGHT}AVISO LEGAL:{RESET}
 {MAGENTA}Este script é destinado apenas para fins educacionais e testes autorizados em ambientes controlados.
 O uso para atacar sistemas sem permissão é ilegal e pode resultar em sanções civis e criminais.
