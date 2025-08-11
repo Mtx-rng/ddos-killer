@@ -58,7 +58,7 @@ cd ddos-killer
 Execute o script em ambiente de **teste** com permissão:
 
 ```bash
-python ddos-killer.py
+python ddos-black.py
 ```
 
 Siga o menu interativo para configurar o ataque:
