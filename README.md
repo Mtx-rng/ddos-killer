@@ -4,8 +4,6 @@
 
 # DDos Killer Turbo
 
-![ascii-art](https://raw.githubusercontent.com/Mtx-rng/ddos-killer/main/arte-ascii.png)
-
 ## ⚠️ Aviso Legal
 
 > Este script é fornecido **apenas para fins educacionais e testes autorizados em ambientes controlados**.  
